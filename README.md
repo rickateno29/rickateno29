@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rickateno29
+- 👋 Hi, I’m @retno anggraeni
+- 👀 I'm a data scientist and now learning for career switching as Business Intelligence
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on IT company
-- 📫 How to reach me visit my profile on my glints
+- 📫 How to reach me visit my profile on my linkedin
 
 <!---
 rickateno29/rickateno29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
